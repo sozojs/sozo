@@ -1,0 +1,21 @@
+{
+  "name": "sozo",
+  "version": "1.0.0",
+  "description": "sozo light web client framework",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "sozo",
+    "light",
+    "web",
+    "client"
+  ],
+  "author": "Jon Swenson",
+  "license": "MIT"
+}
