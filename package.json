@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "sozo light web client framework",
   "main": "lib/index.js",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/sozojs/sozo.git"
+  },
   "directories": {
     "lib": "lib",
     "test": "test"
